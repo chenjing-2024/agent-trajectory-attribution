@@ -1,0 +1,4 @@
+interface:
+  display_name: "AgentDojo Annotation"
+  short_description: "Build and validate AgentDojo annotations"
+  default_prompt: "Use $agentdojo-annotation to build and validate AgentDojo trajectory annotations."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent3Sigma Annotation"
+  short_description: "Build and validate Agent3Sigma annotations"
+  default_prompt: "Use $agent3sigma-annotation to build and validate unsafe or safety-refusal annotations."

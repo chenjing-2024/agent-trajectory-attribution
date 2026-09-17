@@ -1,0 +1,14 @@
+{
+  "workspace/example.json": {
+    "prompt": "Send an email to alice@example.com saying hello.",
+    "actions": [
+      {
+        "function": "send_email",
+        "args": {
+          "to": "alice@example.com",
+          "body": "hello"
+        }
+      }
+    ]
+  }
+}

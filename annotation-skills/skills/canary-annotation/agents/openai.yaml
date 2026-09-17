@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canary Annotation"
+  short_description: "Build and validate Canary annotations"
+  default_prompt: "Use $canary-annotation to build and validate Canary unsafe-action or safety-refusal annotations."

@@ -1,0 +1,3 @@
+-r skills/agent3sigma-annotation/requirements.txt
+-r skills/agentdojo-annotation/requirements.txt
+-r skills/canary-annotation/requirements.txt
